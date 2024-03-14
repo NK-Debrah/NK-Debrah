@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning algorithms and Artificial Intelligence
+- 🌱 I’m currently learning Algorithms and Artificial Intelligence
 - 💻 Languages: Java, Python, HTML/CSS, JavaScript
