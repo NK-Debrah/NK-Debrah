@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Algorithms and Artificial Intelligence
-- 💻 Languages: Java, Python, HTML/CSS, JavaScript
+- 💻 Languages: Java, Python, HTML/CSS, JavaScript, React, React Native
