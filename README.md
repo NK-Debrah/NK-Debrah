@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Mobile Systems and Big Data Systems
-- 💻 Languages: Java, Python, HTML/CSS, JavaScript, React, React Native
+- 💻 Languages: Java, Python, HTML/CSS, JavaScript, React, React Native, Kotlin
