@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Foundations of Mobile Systems and Applications
+- 🌱 I’m currently learning Mobile Systems and Big Data Systems
 - 💻 Languages: Java, Python, HTML/CSS, JavaScript, React, React Native
